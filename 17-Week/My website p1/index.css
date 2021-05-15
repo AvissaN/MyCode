@@ -1,0 +1,44 @@
+nav{
+	background-color: grey;
+}
+.nav-item {
+	background-color: black;
+	color:white;
+	display:inline-block;
+	text-align: center;
+	padding: 25px 50px;
+}
+.left-panel {
+	width: 29%
+	height:100%;
+	background-color: blue;
+	float: left;
+	color:white;
+}
+.right-panel{
+	width:71%;
+	height:100%;
+	background-color: aqua;
+	float: left;
+}
+.freedom-4782870_1920.jpg{
+	display: block;
+	margin: auto;
+	height: 50px;
+	width: 50px;
+	float: left;
+	padding: 25px 50px;}
+
+
+.other-image {
+	float: left;
+	padding: 50px;
+}
+.text-center {
+	text-align: center;
+}
+.smile {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+}
